@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(#ffffee, #22abdd);
+
+}
+
+h1 {
+  color: #ffabab;
+
+}
+
+.external_links {
+  
+}
+
+.footer_links {
+  color: #000000;
+  text-decoration:none;
+}
+
+.footer_links:hover{
+  color: #d31919;
+  text-decoration:underline;
+}
