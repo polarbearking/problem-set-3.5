@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(#ffffee, #22abdd);
+  background-image:linear-gradient(#ffffee, #22abdd);
 
 }
 
@@ -8,8 +8,23 @@ h1 {
 
 }
 
+p {
+  font-
+}
+
+.information{
+  font-family: "Comic Sans MS", "Comic Sans";
+  font-size: 20px;
+}
+
 .external_links {
-  
+  color: #630aff;
+  text decoration:underline;
+}
+
+.external_links:hover{
+  color: #0aff12;
+  text-decoration:underline;
 }
 
 .footer_links {
